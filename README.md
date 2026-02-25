@@ -4,6 +4,8 @@ An independent data analysis project examining what drives hospital quality rati
 
 **Note**: Raw data files are not included in this repository. All datasets can be downloaded directly from the CMS Provider Data Catalog under Hospital General Information, Complications & Deaths, and Unplanned Hospital Visits (Hospital-level CSVs).
 
+**Demo Link for Tableau Visualization**: https://public.tableau.com/app/profile/duong.ngo7714/viz/USHospitalQualityDashboard/U_S_HospitalQualityDashboard?publish=yes
+
 ---
 
 ## Project Overview
